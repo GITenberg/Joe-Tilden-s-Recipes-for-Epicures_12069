@@ -1,0 +1,24 @@
+_repo: Joe-Tilden-s-Recipes-for-Epicures_12069
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tilden, Joe
+    alias: Tilden, Joseph
+    gutenberg_agent_id: '4207'
+    url: http://www.gutenberg.org/2009/agents/4207
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12069'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking'
+- GITenberg
+title: Joe Tilden's Recipes for Epicures
+url: http://www.gutenberg.org/ebooks/12069
